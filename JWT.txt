@@ -1,0 +1,1 @@
+Json web token chủ yếu dùng cho việc xác thực người dùng, ngăn cản việc giả mạo người dùng.
